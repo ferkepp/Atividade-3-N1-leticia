@@ -1,0 +1,36 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.cabecalho {
+    width: 100%;
+    background-color: black;
+    margin: 0px;
+    padding: 10px;
+    height: 80px;
+    color: white;
+}
+
+.corpo {
+    width: 100%;
+    padding: 10%;
+    padding-top: 0px;
+    min-height: 200px;
+}
+
+.container {
+    width: 80%;;
+    background-color: blue;
+    color: white;
+}
+
+footer {
+    height: 40px;
+    margin: 0px;
+    background-color: red;
+    color: black;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
